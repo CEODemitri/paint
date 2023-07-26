@@ -55,7 +55,7 @@ function DropDown() {
   );
 }
 
-function Navbar() {
+function NavBar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light mb-5">
       <div className="container-fluid">
@@ -85,4 +85,4 @@ function Navbar() {
     </nav>
   );
 }
-export default Navbar;
+export default NavBar;
